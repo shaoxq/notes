@@ -1,3 +1,5 @@
+[blog](https://github.com/shaoxq/notes/tree/master/tensorflow/blog.md)
+# tensorflow
 [source](https://github.com/tensorflow/tensorflow)
 
 [models](https://github.com/tensorflow/models)
