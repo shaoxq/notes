@@ -9,6 +9,8 @@
 
 [Model-Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
+[caffe-model](https://github.com/soeaver/caffe-model)
+
 [python script to generate prototxt](https://github.com/soeaver/caffe-model)
 
 [Automatic Caffe parameter search via Spearmint Bayesian optimisation](https://github.com/kuz/caffe-with-spearmint)
