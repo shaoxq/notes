@@ -2,6 +2,8 @@
 
 [Caffe在Ubuntu 14.04 64bit 下的安装](http://www.linuxidc.com/Linux/2015-07/120449.htm)
 
+[Caffe 深度学习框架上手教程](http://blog.csdn.net/qq_26898461/article/details/50454804)
+
 [Caffe 源码的修改（用于车辆的定位）](http://blog.csdn.net/baobei0112/article/details/47606559)
 
 [【Caffe实践】基于Caffe的人脸关键点检测实现](http://blog.csdn.net/qq_26898461/article/details/50474375)

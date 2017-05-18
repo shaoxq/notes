@@ -27,3 +27,5 @@
 [TensorFlow入门教程集合](http://blog.csdn.net/jdbc/article/details/52402302)
 
 [TensorFlow 研究实践 一](http://blog.csdn.net/forest_world/article/details/51306432)
+
+[tensorfly](http://www.tensorfly.cn/home/?p=80)
