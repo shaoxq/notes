@@ -1,4 +1,5 @@
 [blog](https://github.com/shaoxq/notes/tree/master/tensorflow/blog.md)
+
 # tensorflow
 [source](https://github.com/tensorflow/tensorflow)
 
@@ -16,6 +17,8 @@
 
 [tensorlayer](https://github.com/zsdonghao/tensorlayer)
 
+[TensorLayer 中文文档](http://tensorlayercn.readthedocs.io/zh/latest/)
+
 [tflearn](https://github.com/tflearn/tflearn)
 
 [Keras中文文档](https://github.com/fchollet/keras)
@@ -25,3 +28,9 @@
 [TensorFlow中遇到的问题及解决方法](http://www.jeyzhang.com/problems-with-solution-in-tensorflow.html)
 
 [first-contact-with-tensorflow](http://jorditorres.org/first-contact-with-tensorflow/)
+
+[caffe2tensorflow](https://github.com/ethereon/caffe-tensorflow)
+
+[lstm_learn](https://github.com/anxingle/lstm_learn)
+
+
