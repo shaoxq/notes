@@ -43,6 +43,9 @@
 ##### caffe的python接口学习
 [1-生成配置文件](http://www.cnblogs.com/denny402/p/5679037.html) [2-生成solver文件](http://www.cnblogs.com/denny402/p/5679154.html)  [3-训练模型（training)](http://www.cnblogs.com/denny402/p/5679204.html) [4-mnist实例---手写数字识别](http://www.cnblogs.com/denny402/p/5684431.html) [5-生成deploy文件](http://www.cnblogs.com/denny402/p/5685818.html) [6-用训练好的模型（caffemodel）来分类新的图片](http://www.cnblogs.com/denny402/p/5685909.html) [7-绘制loss和accuracy曲线](http://www.cnblogs.com/denny402/p/5686067.html) [8-caffemodel中的参数及特征的抽取](http://www.cnblogs.com/denny402/p/5686257.html)
 
+##### caffe源码深入学习
+[1-caffe.cpp解析](http://blog.csdn.net/jiongnima/article/details/55053059) [2-blob.hpp+blob.cpp](http://blog.csdn.net/jiongnima/article/details/55223822) [3-更底层的数据信息存取与交换代码：syncedmem.hpp和syncedmem.cpp](http://blog.csdn.net/jiongnima/article/details/55800959)  [4-支持魔改的layer：layer.hpp与layer.cpp](http://blog.csdn.net/jiongnima/article/details/56036079) [5-caffe卷积层代码解析](http://blog.csdn.net/jiongnima/article/details/69055941)  [6-caffe卷积层延伸：卷积核膨胀详细解析](http://blog.csdn.net/jiongnima/article/details/69487519)     [7-im2col绘图解析，分析caffe卷积操作的底层实现](http://blog.csdn.net/jiongnima/article/details/69736844)
+
 [caffe层解读系列——slice和concat实现MultiTask](http://blog.csdn.net/shuzfan/article/details/54565776)
 
 [Caffe）LSTM层分析](http://blog.csdn.net/mounty_fsc/article/details/53114698)
