@@ -33,4 +33,4 @@
 
 [lstm_learn](https://github.com/anxingle/lstm_learn)
 
-[earn code with tensorflow](https://github.com/burness/tensorflow-101)
+[learn code with tensorflow](https://github.com/burness/tensorflow-101)
