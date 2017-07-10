@@ -19,3 +19,4 @@
 
 [Miles Deep - AI Porn Video Editor](https://github.com/ryanjay0/miles-deep)
 
+[resnet](https://github.com/antingshen/resnet-protofiles)
