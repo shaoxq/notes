@@ -8,4 +8,5 @@
 # 计算机视觉
 [opencv](https://github.com/shaoxq/notes/tree/master/opencv)
 
-# [keros](https://keras.io/)
+# keros
+[keros](https://keras.io/) [source](https://github.com/fchollet/keras)
